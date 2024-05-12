@@ -1,0 +1,4 @@
+Hello there ,I hope you are doing good . I am Arpan , student of accelerator camp by algo university.
+I am currently learning git. My first task is to fork a repository ,then clone it in git ,make a new 
+branch ,in that branch add an about file of myself and then commit the changes .lastly issue a pull 
+request .I hope I do good.
